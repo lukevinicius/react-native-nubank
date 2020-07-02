@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="https://res.cloudinary.com/lukevinicius/image/upload/v1563901304/readme_logos/designcode_screen_01_nxrabs.gif">
-  <img alt="App Demo" src="https://res.cloudinary.com/lukevinicius/image/upload/v1563901538/readme_logos/designcode_screen_02_kuvvwt.gif">
+  <img alt="App Demo" src="https://res.cloudinary.com/lukevinicius/image/upload/v1563901304/readme_logos/react-native-nubank_screen_01_nxrabs.gif">
+  <img alt="App Demo" src="https://res.cloudinary.com/lukevinicius/image/upload/v1563901538/readme_logos/react-native-nubank_screen_02_kuvvwt.gif">
 </p>
 
 ## :rocket: Technologies
@@ -52,10 +52,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukevinicius/react-native-nubank designCode
+$ git clone https://github.com/lukevinicius/react-native-nubank
 
 # Go into the repository
-$ cd designCode
+$ cd react-native-nubank
 
 # Install dependencies
 $ yarn install
